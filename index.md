@@ -4,8 +4,12 @@ layout: default
 # Otsikot
 ## Pelin esittely
 ### Oma rooli
+Kuva | Kuva  | Kuva | Kuva | Kuva 
+---- | ---- |  ---- | ---- |  ----
+2D-graphics | System design | Visual effect design | UI design | Project Management (SM) 
 
 ## Lähtökohdat
+
 ### Vahvuudet ennen Ticorporatea
 
 ## Pre-production
