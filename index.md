@@ -46,21 +46,44 @@ Being able to use Git properly was important for giving the technical side the l
 With a role that could be described as a project manager of sorts, I had to have understanding of Zenhub to keep track of the progress of the project and getting data, mostly burndown charts for reporting to the organization, in this case JAMK.
 
 ## Teamwork
+### Project Management
+
+### Scrum
+Working in a scrum project was a first for me, however I've been working in the same space with an functioning scrum team so I had general idea about what to expect about sprints, dailies, retrospectives et cetera when the project started.
+
+
 ### Project
 
 # Stages
 ## Pre-production
-### Project Planning
-### GDD
 ### Setting things up
+The confusion was real during the first days after the project started, we decided upon using Discord as our communication platform and added channels we thought to be useful for organizing stuff. I did take the responsibility of creating tracking for calendar and work hours along with field for marking what was done during that day to help with weekly reporting. The setup regarding calendar and daily reporting was kept through the whole project without any big changes.
+### Project Planning and GDD
+I did most of the planning regarding scrum events in the Project Plan and confirmed the team agreed with the conventions that were written in it. We evaluated what we should be able to achieve during the project and adjusted our MVP accordingly as the game described in Game Design Document was too large.
 
 ## Production
+The first couple of weeks were learning Blender for me, I did some prototype design during that time too.
 ### Contribution to the game
-### Learning
-### Implementing
-### Project Management
-### Three Highlights
+Somewhat chronological order:
+- Designing required models in the maps, designing the prototype rooms with Patrik
+- Designing and documenting combat, skill, status, weapon and combo systems
+- The initial design and documenting of the skills to be used in the demo with help of Mikki
+- Designing and implementing VFX for stance change and whirlwind skills using Blender, Photoshop, VFX-graph and Shadergraph
+- Deciding the in-game UI layout and creating UI graphics
+- Main menu graphics and settings layout
 
+Not existing in current build:
+- Building the prototype room for the first demo
+- Onepage as an introduction to the game testers
+#### Project Management
+- Facilitating the scrum related meetings, weekly meetings and creating minutes/reports of the events
+- Holding the daily scrums
+- Clarifying the purpose of the scrum events during the meetings
+
+## Three Highlights
+### VFX
+### 2D-graphics
+### Communication
 
 ## Post production
 ### Reflection
