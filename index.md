@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Information about the game
-RUIN is a game demo, that was developed in Ticorporate course held by Jyväskylä University of Applied Sciences between January and May in 2021.
+RUIN is a game demo, that was developed in Ticorporate course held by Jyväskylä University of Applied Sciences(JAMK) between January and May in 2021.
 
 RUIN is a third-person roguelite/roguelike action game with focus on fluid and responsive combat.
 
@@ -31,11 +31,19 @@ Because of the pandemic, I was certain that I would not be able to get much work
 - Some experience from using Unity and Blender from JAMK courses
 
 # What I learned
+For essentially every part of the project I did, there was something new to learn, was it tools or workflow or just getting things to actually work in Unity on top of being able to use Unity itself. 
 ## Tools
+The big part of Ticorporate for me was to get used to the tools that was required for content creation, I expected to do some texturing at some point but that was kind of left behind when I decided to start focusing on effects. Down below are things I learned to do with different tools during the course.
 ### Unity
+Unity was the fundamental part for developing the game, so being able to use Unity was the most important here. Despite being on Unity course before Ticorporate, I had forgotten most of it so using the different tools within the editor was problematic in the beginning. There were plugins that I had not used before like ProBuilder, ShaderGraph and VFX Graph.
 ### Blender
+While I did not have any real contribution to the game through from Blender aside from doing simple shapes for animating visual effects, I think i was able to get some basic competency on using the shortcuts efficiently, create simple 3D models, using lighting to create appealing screenshots, using particles when needed and understanding UV maps.  
 ### Photoshop
+I was already familiar with Photoshop so the learning part was understanding what kind of files, formats and resolution you should use for importing to Unity and how it will handle colors and transparency. *Spoiler alert, Unity is quite compatible with with the regular image formats*
+### Git
+Being able to use Git properly was important for giving the technical side the least amount of headache when you push your things for merging to the sprint branch.
 ### Zenhub
+With a role that could be described as a project manager of sorts, I had to have understanding of Zenhub to keep track of the progress of the project and getting data, mostly burndown charts for reporting to the organization, in this case JAMK.
 
 ## Teamwork
 ### Project
