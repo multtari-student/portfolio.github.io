@@ -1,32 +1,33 @@
 ---
 layout: default
 ---
-# Otsikot
-## Pelin esittely
-### Oma rooli
-Kuva | Kuva  | Kuva | Kuva | Kuva 
----- | ---- |  ---- | ---- |  ----
-2D-graphics | System design | Visual effect design | UI design | Project Management (SM) 
+# Introduction
+## Information about the game
+### My roles
+Kuva | Kuva  | Kuva | Kuva | Kuva | Kuva 
+---- | ---- |  ---- | ---- | ---- | ----
+2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (SM) 
 
-## Lähtökohdat
+## Starting point
 
-### Vahvuudet ennen Ticorporatea
+## Strenghts before Ticorporate
+## What I learned
+### Tools
+### Teamwork
 
 ## Pre-production
-### Järjestelyt
-### Suunnittelu
+### Setting things up
+### Planning
 
 ## Production
-### Opiskelu
-### Toiminta
-### Projektinhallinta
+### Learning
+### Implementing
+### Project Management
+### Three Highlights
 
-## Taidot
-### Työkalut
-### Tiimityöskentely
 
 ## Post production
-### Reflektio
+### Reflection
 
 
 
