@@ -7,24 +7,27 @@ RUIN is a game demo, that was developed in Ticorporate course held by Jyv√§skyl√
 
 RUIN is a third-person roguelite/roguelike action game with focus on fluid and responsive combat.
 
-## My roles
+# My roles
 Kuva | Kuva  | Kuva | Kuva | Kuva | Kuva 
 ---- | ---- |  ---- | ---- | ---- | ----
 2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (SM) 
 
+
+
+
 # Starting point
+
+<details><summary></summary>
+<br>
 Lets start with some honesty here, when getting into the project I did not have too much experience with roguelike games aside from Diablo and Path of Exile which are not categorized into that genre. However one of the inspirations to the game was Genshin Impact which i was familiar with, to say the very least. I had quite good understanding of what makes that game good, and I wanted to try see how we could get those things implemented in a new game project.
 
 I was not confident in being able to contribute on technical side, so i opted into doing content production for the game. I did not know precisely what I wanted to do when joining the team, but I had a clue that I wanted to do 2D stuff and learn 3D modelling.
 
 Because of the pandemic, I was certain that I would not be able to get much work done as I'd like because of the remote work. Initially I did not plan to take Scrum Master as an side role, but after some consideration and encouragement from the overlord I decided to go for that role to have more responsibility within the team aside from just getting things done, as I felt like that would force me to be more involved in the process.
+</details>
 
 ## Strenghts before Ticorporate
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
+
 
 # What I learned
 ## Tools
