@@ -20,7 +20,11 @@ I was not confident in being able to contribute on technical side, so i opted in
 Because of the pandemic, I was certain that I would not be able to get much work done as I'd like because of the remote work. Initially I did not plan to take Scrum Master as an side role, but after some consideration and encouragement from the overlord I decided to go for that role to have more responsibility within the team aside from just getting things done, as I felt like that would force me to be more involved in the process.
 
 ## Strenghts before Ticorporate
-
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 # What I learned
 ## Tools
