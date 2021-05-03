@@ -43,7 +43,7 @@ The large part of project for me was to get used to the tools that was required 
 ### Unity 
 ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838848381375086683/giphy_2.gif)
 <br>
-Unity was the fundamental part for developing the game, so being able to use Unity was the most important here. Despite being on Unity course before Ticorporate, I had forgotten most of it so using the different tools within the editor was problematic in the beginning. There were plugins that I had not used before like ProBuilder, ShaderGraph and VFX Graph.
+Unity was the fundamental part for developing the game, so being able to use Unity was the most important here. Despite being on Unity course before Ticorporate, I had forgotten most of it so using the different tools within the editor was problematic in the beginning. There were plugins that I had not used before like ProBuilder, ShaderGraph, VFX Graph and Animator.
 ### Blender
 ![Image](https://cdn.discordapp.com/attachments/799629769658073109/807163415273013268/i-tried-finish.png)
 While I did not have any real contribution to the game through from Blender aside from doing simple shapes for animating visual effects, I think i was able to get some basic competency on using the shortcuts efficiently, create simple 3D models, using lighting to create appealing screenshots, using particles when needed and understanding UV maps.  
@@ -158,8 +158,8 @@ I should have done more 3D related stuff as that was part of my goals for the co
 
 **Overall feelings**
 <br>
-Ticorporate has been unique experience and I got comprehensive understand how _some_ parts of Unity works, I cannot claim to have full understanding of the tool just yet. I'm confident in using scrum, git and github in my future projects.
+Ticorporate has been unique experience and I got comprehensive understand how _some_ parts of Unity works, I cannot claim to have full understanding of the tool just yet. I'm confident in using scrum, git and github in my future projects. The role of scrum master was completely out of my comfort zone, but I think it helped with my communication skills alot.
 
-Out of the remote work courses this has been the most successful for me, the structure that project planning and scrum process kind of "forced" on us helped me tremendously for time management. I felt like I learned alot about working as an actual team during this course.
+Out of the remote work courses this has been the most successful for me, the structure that project planning and scrum process kind of "forced" on us helped me tremendously for time management. I felt like I learned alot about working as an actual team during this course. 
 
 
