@@ -7,7 +7,7 @@ This page serves as a portfolio for the work done to the video game project RUIN
 
 RUIN is a game demo, that was developed in Ticorporate course held by Jyväskylä University of Applied Sciences (JAMK) between January and May in 2021.
 
-The game is a third-person roguelite/roguelike action game with focus on fluid and responsive combat.
+The game is a third-person roguelite/roguelike action game with focus on fluid and responsive combat. The purpose is to survive through levels with increasing difficulty, gather artifacts and smack enemies.
 <br>
 <br>
 
