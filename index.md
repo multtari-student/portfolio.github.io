@@ -12,7 +12,7 @@ The game is a third-person roguelite/roguelike action game with focus on fluid a
 <br>
 
 # 2. My roles
-2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (SM) 
+2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (Scrum Master) 
 ---- | ---- |  ---- | ---- | ---- | ----
 <br>
 <br>
