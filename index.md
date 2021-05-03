@@ -154,6 +154,8 @@ I should have done more 3D related stuff as that was part of my goals for the co
 
 **Overall feelings**
 <br>
-Out of the remote work courses this has been the most successful for me, the structure that project planning and scrum process kind of "forced" on us helped me tremendously for time management. I felt like I learned alot about working as a team during this course.
+Ticorporate has been unique experience and I got comprehensive understand how _some_ parts of Unity works, I cannot claim to have full understanding of the tool just yet. I'm confident in using scrum, git and github in my future projects.
+
+Out of the remote work courses this has been the most successful for me, the structure that project planning and scrum process kind of "forced" on us helped me tremendously for time management. I felt like I learned alot about working as an actual team during this course.
 
 
