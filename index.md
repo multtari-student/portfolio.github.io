@@ -8,11 +8,14 @@ This page serves as a portfolio for the work done to the video game project RUIN
 RUIN is a game demo, that was developed in Ticorporate course held by Jyväskylä University of Applied Sciences (JAMK) between January and May in 2021.
 
 The game is a third-person roguelite/roguelike action game with focus on fluid and responsive combat.
+<br>
+<br>
 
 # My roles
 2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (SM) 
 ---- | ---- |  ---- | ---- | ---- | ----
-
+<br>
+<br>
 
 
 # Starting point
@@ -29,7 +32,9 @@ Because of the pandemic, I was certain that I would not be able to get much work
 - Testing different games and software
 - Good general understanding of game systems
 - Being able to work in many types of teams
-- Some experience from using Unity and Blender through JAMK courses
+- Some experience from using Unity and Blender through JAMK courses 
+<br>
+<br>
 
 # What I learned
 For essentially every part of the project I did, there was something new to learn, was it tools or workflow or just getting things to actually work in Unity on top of being able to use Unity itself. 
@@ -51,16 +56,19 @@ With a role that could be described as a project manager of sorts, I had to have
 As mentioned in the "My Roles", the SM abbreviation stands for Scrum Master which meant it was my responsibility to make sure the team uses scrum practices to their fullest extent. I did the facilitating for all of the meetings held within the team during the course, this includes sprint planning, backlog grooming, retrospective, weekly meeting, daily scrum and the additional meetings we decided to take during the time and also wrote the documents related to these meetings.
 ### Scrum
 Working in a scrum project was a first for me, however I've been working in the same space with an functioning scrum team so I had general idea about what to expect about sprints, dailies, retrospectives et cetera when the project started.
+<br>
+<br>
 
-
-
-### Project
 
 # Stages
 ## Pre-production
-### Setting things up
+**Setting things up**
+<br>
 The confusion was real during the first days after the project started, we decided upon using Discord as our communication platform and added channels we thought to be useful for organizing stuff. I did take the responsibility of creating tracking for calendar and work hours along with field for marking what was done during that day to help with weekly reporting. The setup regarding calendar and daily reporting was kept through the whole project without any big changes.
-### Project Planning and GDD
+<br>
+<br>
+**Project Planning and GDD**
+<br>
 I did most of the planning regarding scrum events in the Project Plan and confirmed the team agreed with the conventions that were written in it. We evaluated what we should be able to achieve during the project and adjusted our MVP accordingly as the game described in Game Design Document was too large.
 
 ## Production
@@ -75,9 +83,13 @@ Somewhat chronological order:
 - Main menu graphics and settings layout
 
 Not existing in current build:
-- Building the prototype room for the first demo
+- Prototype room for the first demo
 - Onepage as an introduction to the game testers
-#### Project Management
+<br>
+
+**Project Management**
+<br>
+
 - Facilitating the scrum related meetings, weekly meetings and creating minutes/reports of the events
 - Holding the daily scrums
 - Clarifying the purpose of the scrum events during the meetings
