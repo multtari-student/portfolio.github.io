@@ -50,7 +50,7 @@ While I did not have any real contribution to the game through from Blender asid
 ### Photoshop
 ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838849490672549939/unknown.png)
 <br>
-I was already familiar with Photoshop so the learning part was understanding what kind of files, formats and resolution you should use for importing to Unity and how it will handle colors and transparency. *Spoiler alert, Unity is quite compatible with with the regular image formats*
+I was already familiar with Photoshop so the learning part was understanding what kind of files, formats and resolution you should use for importing to Unity and how it will handle colors and transparency. *Spoiler alert, Unity is quite compatible with the regular image formats such as jpeg and png, the unity image encoder works well*
 ### Git
 Being able to use Git properly was important for giving the technical side the least amount of headache when you push your things for merging to the sprint branch. I probably do not handle the best practices in Git quite yet, but I'm very comfortable using it through bash.
 ### Zenhub
@@ -81,8 +81,10 @@ The first couple of weeks were learning Blender for me, I did some prototype des
 ### Contribution to the game
 Main things done in chronological order:
 - Designing required models in the maps, designing a prototype room
-- The initial design and documenting of the skills to be used in the demo. The reference images were provided by Mikki Salo. [The documentation can be viewed here](https://docs.google.com/document/d/e/2PACX-1vRE8e4rsyDxtUxzcspieUyE5Fc9g5E_aMe5RqubdeNkB7eZiWD4Kd5v6SAzTrrpzJH0kb1lkxOrszqe/pub)
-- Designing and documenting combat, skill, status, weapon and combo systems. [The documentation can be viewed here](https://docs.google.com/document/u/1/d/e/2PACX-1vRNcjOpredPXS7mWWdFqnD97IsTqJ_3dDkmOJBf4PkpxKtEydikzVzIKNoTQi__TOhN_YQLYp0LLqEL/pub)
+- The initial design and documenting of the skills to be used in the demo.<br>
+  [The documentation can be viewed here, reference images were found by Mikki Salo](https://docs.google.com/document/d/e/2PACX-1vRE8e4rsyDxtUxzcspieUyE5Fc9g5E_aMe5RqubdeNkB7eZiWD4Kd5v6SAzTrrpzJH0kb1lkxOrszqe/pub)
+- Designing and documenting combat, skill, status, weapon and combo systems.<br>
+ [The documentation can be viewed here](https://docs.google.com/document/u/1/d/e/2PACX-1vRNcjOpredPXS7mWWdFqnD97IsTqJ_3dDkmOJBf4PkpxKtEydikzVzIKNoTQi__TOhN_YQLYp0LLqEL/pub)
 - Designing and implementing VFX for stance change and whirlwind skills using Blender, Photoshop, VFX-graph and Shadergraph
 - Deciding the in-game UI layout and creating UI graphics
 - Main menu graphics and settings layout
