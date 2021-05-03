@@ -81,8 +81,8 @@ The first couple of weeks were learning Blender for me, I did some prototype des
 ### Contribution to the game
 Main things done in chronological order:
 - Designing required models in the maps, designing a prototype room
-- Designing and documenting combat, skill, status, weapon and combo systems
-- The initial design and documenting of the skills to be used in the demo
+- The initial design and documenting of the skills to be used in the demo. The reference images were provided by Mikki Salo. [The documentation can be viewed here](https://docs.google.com/document/d/e/2PACX-1vRE8e4rsyDxtUxzcspieUyE5Fc9g5E_aMe5RqubdeNkB7eZiWD4Kd5v6SAzTrrpzJH0kb1lkxOrszqe/pub)
+- Designing and documenting combat, skill, status, weapon and combo systems. [The documentation can be viewed here](https://docs.google.com/document/u/1/d/e/2PACX-1vRNcjOpredPXS7mWWdFqnD97IsTqJ_3dDkmOJBf4PkpxKtEydikzVzIKNoTQi__TOhN_YQLYp0LLqEL/pub)
 - Designing and implementing VFX for stance change and whirlwind skills using Blender, Photoshop, VFX-graph and Shadergraph
 - Deciding the in-game UI layout and creating UI graphics
 - Main menu graphics and settings layout
@@ -91,6 +91,7 @@ Not existing in current build:
 - Prototype room for the first demo
 - Onepage as an introduction to the game testers
 <br>
+
 
 **Responsibilities as Scrum Master**
 <br>
