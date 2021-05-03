@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 1. Intro
+# **1. Intro**
 This page serves as a portfolio for the work done to the video game project RUIN. I will go through different phases of the project, share my contributions to the project, tell about my responsibilities within the team and my general thoughts about the project as a whole.
 
 RUIN is a game demo, that was developed in Ticorporate course held by Jyväskylä University of Applied Sciences (JAMK) between January and May in 2021.
@@ -11,14 +11,14 @@ The game is a third-person roguelite/roguelike action game with focus on fluid a
 <br>
 <br>
 
-# 2. My roles
+# **2. My roles**
 2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (Scrum Master) 
 ---- | ---- |  ---- | ---- | ---- | ----
 <br>
 <br>
 
 
-# 3. Starting point
+# **3. Starting point**
 
 Lets start with some honesty here, when getting into the project I did not have too much experience with roguelike games aside from Diablo and Path of Exile which are not categorized into that genre. However one of the inspirations to the game was Genshin Impact which i was familiar with, to say the very least. I had quite good understanding of what makes that game good, and I wanted to try see how we could get those things implemented in a new game project.
 
@@ -36,7 +36,7 @@ Because of the pandemic, I was certain that I would not be able to get much work
 <br>
 <br>
 
-# 4. What I learned
+# **4. What I learned**
 For essentially every part of the project I did, there was something new to learn, was it tools or workflow or just getting things to actually work in Unity on top of being able to use Unity itself. 
 ## Tools
 The large part of project for me was to get used to the tools that was required for content creation, I expected to do some texturing at some point but that was kind of left behind when I decided to start focusing on effects. Down below are things I learned to do with different tools during the course.
@@ -65,7 +65,7 @@ Working in a scrum project was a first for me, however I've been working in the 
 <br>
 
 
-# 5. Stages
+# **5. Stages**
 ## Pre-production
 **Setting things up**
 <br>
@@ -146,7 +146,7 @@ I feel like my ability to talk out my thoughts and overall ability to speak unde
 ## Post production
 For post production our work is not really done, we just stopped adding new features to the game. There will be a handful of bugfixing and final implementations before we go bankrupt. 
 
-# 6. Reflection
+# **6. Reflection**
 
 **What should I have done differently?**
 <br>
