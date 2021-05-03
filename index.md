@@ -19,7 +19,7 @@ Kuva | Kuva  | Kuva | Kuva | Kuva | Kuva
 
 Lets start with some honesty here, when getting into the project I did not have too much experience with roguelike games aside from Diablo and Path of Exile which are not categorized into that genre. However one of the inspirations to the game was Genshin Impact which i was familiar with, to say the very least. I had quite good understanding of what makes that game good, and I wanted to try see how we could get those things implemented in a new game project.
 
-I was not confident in being able to contribute on technical side, so i opted into doing content production for the game. I did not know precisely what I wanted to do when joining the team, but I had a clue that I wanted to do 2D stuff and learn 3D modelling.
+I was not confident in being able to contribute on technical side, so i opted into doing content production for the game. I did not know precisely what I wanted to do when joining the team, but I had a clue that I wanted to do 2D stuff because I'm able to do it, and I also wanted to learn 3D modelling.
 
 Because of the pandemic, I was certain that I would not be able to get much work done as I'd like because of the remote work. Initially I did not plan to take Scrum Master as an side role, but after some consideration and encouragement from the overlord I decided to go for that role to have more responsibility within the team aside from just getting things done, as I felt like that would force me to be more involved in the process.
 
@@ -82,8 +82,11 @@ Not existing in current build:
 
 ## Three Highlights
 ### VFX
+I was quite happy with the shadergraph effect I managed to make for stance change, the effect is pretty simple but it took some thinking to make it work the way I intended, tons of trial and error and understanding how the values are going to work under the hood. I was able to use this shadergraph for the charging effect in whirlwind skill aswell.
 ### 2D-graphics
+While the original intention was not to use the scroll image as the menu image, it was a nice fit and it works with various resolutions. I was happy with how that specific graphic turned out. Consideration was made to match the game vision with the way the edges are handled, there is very slight grain added to get papery texture but still keeping it toon-like. 
 ### Communication
+I feel like my ability to talk out my thoughts and overall ability to speak understandable has improved considerably during this course. I've learned to explain my ideas more properly so team can understand what I'm trying to talk about.
 
 ## Post production
 ### Reflection
