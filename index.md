@@ -67,9 +67,9 @@ I did most of the planning regarding scrum events in the Project Plan and confir
 The first couple of weeks were learning Blender for me, I did some prototype design during that time too.
 ### Contribution to the game
 Somewhat chronological order:
-- Designing required models in the maps, designing the prototype rooms with Patrik
+- Designing required models in the maps, designing a prototype room
 - Designing and documenting combat, skill, status, weapon and combo systems
-- The initial design and documenting of the skills to be used in the demo with help of Mikki
+- The initial design and documenting of the skills to be used in the demo
 - Designing and implementing VFX for stance change and whirlwind skills using Blender, Photoshop, VFX-graph and Shadergraph
 - Deciding the in-game UI layout and creating UI graphics
 - Main menu graphics and settings layout
@@ -88,8 +88,8 @@ I was quite happy with the shadergraph effect I managed to make for stance chang
 
 **Issues**
 As with most of the things I did on this project, I had no clue where to even begin. Looking through the tutorials it became clear that I wanted to use shadergraph for this effect. It was a solid struggle to understand how the values and different filters affected the outcome, transparency was also not straightforward to get as I had not realized you can use the output as the alpha channel. Initially I used deltatime for the effect but after getting the effect to the game I realized more control was needed for the effect to work properly.
-### 2D-graphics
-While the original intention was not to use the scroll image as the menu image, it was a nice fit and it works with various resolutions. I was happy with how that specific graphic turned out. Consideration was made to match the game vision with the way the edges are handled, there is very slight grain added to get papery texture but still keeping it toon-like. 
+### 2D-graphics ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838842953891446864/RUIN_menutexture_transparent.png)
+While the original intention was not to use the scroll image as the menu image, it was a nice fit and it works with various resolutions. I was happy with how that specific graphic turned out. Consideration was made to match the game vision with the way the edges are handled, there is very slight grain added to get papery texture but still keeping it toon-like.
 ### Communication
 I feel like my ability to talk out my thoughts and overall ability to speak understandable has improved considerably during this course. I've learned to explain my ideas more properly so team can understand what I'm trying to talk about.
 
@@ -99,6 +99,7 @@ For post production our work is not really done, we just stopped adding new feat
 ### Reflection
 
 **What should I have done differently?**
+<br>
 Often I would try to figure out the issues I have by my own before raising it up as a problem with the team. I should have asked for help way more often as the solutions were usually fairly simple and was really down to inexperience with software and whatnot.
 
 I should have done better job keeping structure in the meetings and explain more comprehensively what we are doing right now, this could have been achieved by using more visuals during the meetings as they were mostly verbal.
@@ -106,40 +107,7 @@ I should have done better job keeping structure in the meetings and explain more
 I should have done more 3D related stuff as that was part of my goals for the course, however I also wanted to be able to contribute to the project which is the main reason it was left out. 
 
 **Overall feelings**
+<br>
 Out of the remote work courses this has been the most successful for me, the structure that project planning and scrum process kind of "forced" on us helped me tremendously for time management. I felt like I learned alot about working as a team during this course.
 
 
-
-
----
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/multtari-student/portfolio.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
