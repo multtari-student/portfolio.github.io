@@ -137,8 +137,9 @@ As with most of the things I did on this project, I had no clue where to even be
 <br>
 The effect for stance change is done with cylindrical shape that was made in blender, shadergraph has been turned into a shader which is then applied to the model. When player activates stance change, the prefab of the model gets instantiated below the player for the duration of the skill and then destroyed.  
 
-### 2D-graphics ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838842953891446864/RUIN_menutexture_transparent.png)
+### 2D Menu Graphic ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838842953891446864/RUIN_menutexture_transparent.png)
 While the original intention was not to use the scroll image as the menu image, it was a nice fit and it works with various resolutions. I was happy with how that specific graphic turned out. Consideration was made to match the game vision with the way the edges are handled, there is very slight grain added to get papery texture but still keeping it toon-like.
+
 ### Communication
 I feel like my ability to talk out my thoughts and overall ability to speak understandable has improved considerably during this course. I've learned to explain my ideas more properly so team can understand what I'm trying to talk about.
 
