@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Intro
+# 1. Intro
 This page serves as a portfolio for the work done to the video game project RUIN. I will go through different phases of the project, share my contributions to the project, tell about my responsibilities within the team and my general thoughts about the project as a whole.
 
 RUIN is a game demo, that was developed in Ticorporate course held by Jyväskylä University of Applied Sciences (JAMK) between January and May in 2021.
@@ -11,14 +11,14 @@ The game is a third-person roguelite/roguelike action game with focus on fluid a
 <br>
 <br>
 
-# My roles
+# 2. My roles
 2D-graphics | VFX | Game System design | Skill Design | UI design | Project Management (SM) 
 ---- | ---- |  ---- | ---- | ---- | ----
 <br>
 <br>
 
 
-# Starting point
+# 3. Starting point
 
 Lets start with some honesty here, when getting into the project I did not have too much experience with roguelike games aside from Diablo and Path of Exile which are not categorized into that genre. However one of the inspirations to the game was Genshin Impact which i was familiar with, to say the very least. I had quite good understanding of what makes that game good, and I wanted to try see how we could get those things implemented in a new game project.
 
@@ -36,7 +36,7 @@ Because of the pandemic, I was certain that I would not be able to get much work
 <br>
 <br>
 
-# What I learned
+# 4. What I learned
 For essentially every part of the project I did, there was something new to learn, was it tools or workflow or just getting things to actually work in Unity on top of being able to use Unity itself. 
 ## Tools
 The large part of project for me was to get used to the tools that was required for content creation, I expected to do some texturing at some point but that was kind of left behind when I decided to start focusing on effects. Down below are things I learned to do with different tools during the course.
@@ -65,7 +65,7 @@ Working in a scrum project was a first for me, however I've been working in the 
 <br>
 
 
-# Stages
+# 5. Stages
 ## Pre-production
 **Setting things up**
 <br>
@@ -79,7 +79,7 @@ I did most of the planning regarding scrum events in the Project Plan and confir
 ## Production
 The first couple of weeks were learning Blender for me, I did some prototype design during that time too.
 ### Contribution to the game
-Somewhat chronological order:
+Main things done in chronological order:
 - Designing required models in the maps, designing a prototype room
 - Designing and documenting combat, skill, status, weapon and combo systems
 - The initial design and documenting of the skills to be used in the demo
@@ -92,19 +92,48 @@ Not existing in current build:
 - Onepage as an introduction to the game testers
 <br>
 
-**Project Management**
+**Responsibilities as Scrum Master**
 <br>
 
 - Facilitating the scrum related meetings, weekly meetings and creating minutes/reports of the events
 - Holding the daily scrums
 - Clarifying the purpose of the scrum events during the meetings
+- Doing the final decisions on schedule-related subjects
+<br>
+
+**Process improvements**
+<br>
+
+- We came to conclusion that Mad, Sad, Glad model was not good for our team as the model brought up personal issues instead of problems with the team. We moved to asking different set of questions in further retrospectives: _"What do we stop?"_, _"What do we fix?"_, _"What do we continue?"_.
+
+<br>
+
+- During the first weeks it was brought up that the direction with the game was missing, we also were not clear on who does what.<br>
+**Solution:** We did an extra meeting once a week with content creators to be clear on who does what, these meetings were dropped towards end of the project when the team members more or less knew what the other members were going to do during sprints.
+
+<br>
+
+- The team members felt the daily scrum question "Do you have problems?" would single the person out for admitting they have problems with their work, and that was not really purpose of the question during the daily scrum.<br>
+**Solution:** The daily scrum phrases were changed to _"What did you do last time?"_, _"What are you going to do today?"_, _"Did any questions come up?"_ . From my observations, changing the phrase helped team members to bring up problems more openly during daily scrum.
+
+<br>
+
+- From the beginning we agreed on starting daily scrum between 9:10-9:20 in the morning, this was changed to 10:10-10:20 to give team members more flexibility to alleviate sleep issues.
+
+
 
 ## Three Highlights
 ### Stance Change VFX ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838805451889705021/unknown.png)
 I was quite happy with the shadergraph effect I managed to make for stance change, the effect is pretty simple but it took some thinking to make it work the way I intended, tons of trial and error and understanding how the values are going to work under the hood. I was able to use this shadergraph for the charging effect in whirlwind skill aswell.
 
 **Issues**
+<br>
 As with most of the things I did on this project, I had no clue where to even begin. Looking through the tutorials it became clear that I wanted to use shadergraph for this effect. It was a solid struggle to understand how the values and different filters affected the outcome, transparency was also not straightforward to get as I had not realized you can use the output as the alpha channel. Initially I used deltatime for the effect but after getting the effect to the game I realized more control was needed for the effect to work properly.
+
+**Implementation**
+<br>
+The effect for stance change is done with cylindrical shape that was made in blender, shadergraph has been turned into a shader which is then applied to the model. When player activates stance change, the prefab of the model gets instantiated below the player for the duration of the skill and then destroyed.  
+
 ### 2D-graphics ![Image](https://cdn.discordapp.com/attachments/163749375560908800/838842953891446864/RUIN_menutexture_transparent.png)
 While the original intention was not to use the scroll image as the menu image, it was a nice fit and it works with various resolutions. I was happy with how that specific graphic turned out. Consideration was made to match the game vision with the way the edges are handled, there is very slight grain added to get papery texture but still keeping it toon-like.
 ### Communication
@@ -113,7 +142,7 @@ I feel like my ability to talk out my thoughts and overall ability to speak unde
 ## Post production
 For post production our work is not really done, we just stopped adding new features to the game. There will be a handful of bugfixing and final implementations before we go bankrupt. 
 
-### Reflection
+# 6. Reflection
 
 **What should I have done differently?**
 <br>
